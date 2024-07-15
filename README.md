@@ -8,6 +8,6 @@
 - [web dev](https://github.com/Muha-coder-dev/Ajeyo-APP)
 
 ### DEMO
-[check demo]()
+[check demo](https://muha-coder-dev.github.io/Ajeyo-APP/)
 ## Author
 - Muhammad Salisu
