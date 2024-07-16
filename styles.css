@@ -68,3 +68,10 @@ width: 120px;
 cursor: pointer;
 background-color: lightgray;
 }
+caption{
+  caption-side: top;
+  font-size: 1cm;
+  font-weight: 400;
+  margin-bottom: none;
+  border: 1px solid black
+}
